@@ -1,5 +1,4 @@
-# Pacman
-## Exercise on Pacman
+# Pacmen Exercise
 <img src='./images/PacMan1.png' width='100'>
 
 ## Project Description:
